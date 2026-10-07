@@ -7,8 +7,7 @@ Team: Sean Pereira, Pranay Reddy, Ralph Dsouza (B.E. Computer Engineering, Fr. C
 
 | | |
 |---|---|
-| Live demo | `<ADD STREAMLIT LINK>` |
-| Demo video (2-3 min) | `<ADD YOUTUBE / DRIVE LINK>` |
+| Live demo | `https://opsgenie-vwzhqpajspvkggq2tyv7zg.streamlit.app/` |
 | Report | `Team26_OpsGenieAI_Hackathon4.0.pdf` |
 
 <!-- Add a screenshot or GIF here: ![demo](figures/demo.gif) -->
